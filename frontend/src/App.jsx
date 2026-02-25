@@ -913,7 +913,7 @@ function App() {
                 <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
                     <h1 style={{ fontSize: '2rem', marginBottom: '0.5rem' }}>Tharaka Service Center</h1>
                     <p>Magura Raod, Baduraliya.</p>
-                    <p>Phone: 034-2244003 / 071-2986482 | Email: support@vehicleservice.com</p>
+                    <p>Phone: 034-2244003 / 071-2986482 | Email:tharakaservice@gmail.com</p>
                 </div>
                 
                 <div style={{ borderBottom: '2px solid #eee', paddingBottom: '1rem', marginBottom: '1rem' }}>
